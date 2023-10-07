@@ -28,7 +28,7 @@ Script SQL:
 Script SQL:
 [SQL](Animais%20%20-%20Crud%20-%204.sql)
 
-## 5. Adicionando uma nova coluna chamada 'altura' à tabela ANIMAIS com tipo DECIMAL(5,2) 
+## 5. Adicionando uma nova coluna chamada 'observacao' à tabela ANIMAIS com tipo VARCHAR(3) 
 
 ![UPDATE](Animais%20png%205.png)
 
