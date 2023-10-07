@@ -91,4 +91,6 @@ Script SQL:
 Script SQL:
 [SQL](Animais%20%20-%20Crud%20-%2013.sql)
 
+Script SQL Principal:
+[SQL](Animais%20%20-%20Crud.sql)
 
